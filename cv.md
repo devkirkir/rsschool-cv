@@ -1,5 +1,5 @@
 # Kirill Kirpichenko | Frontend-developer
-![avatar](https://github.com/devkirkir/rsschool-cv/blob/gh-pages/avatar.jpg?raw=true  =250x)
+![avatar](avatar.jpg)
 ### Contacts
 - Telegram: @devkirkir
 - Discord: devkirkir
