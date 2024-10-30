@@ -27,11 +27,11 @@ function multiply(a, b){
 }
 ```
 ### Work Experience
-- **06/2024 - Now** |  Work as a Frontend-developer in "Oneco";
-- **2022 - 2023** | Freelance
+- **06/2024 - Now** |  Work as a Frontend-developer in "Oneco"
+- **2022 - 2023** |  Freelance
 ### Education
 - YouTube courses
-- Udemy Courses
+- Udemy courses
 ### Languages
 - Russian (native)
 - English (B1)
